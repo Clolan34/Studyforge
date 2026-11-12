@@ -1,0 +1,6 @@
+{
+  "name": "StudyForge",
+  "description": "Intelligent university exam preparation system for Physics for Computing and Programming with study labs, practice exams, and AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
